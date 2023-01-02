@@ -1,19 +1,3 @@
-/*
-    Given a positive integer , do the following:
-
-    If , print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
-    If , print Greater than 9.
-    Input Format
-
-    A single integer, .
-
-    Constraints
-
-    Output Format
-
-    If , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9.
-*/
-
 #include <stdio.h>
 
 int main()
